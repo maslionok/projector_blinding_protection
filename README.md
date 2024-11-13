@@ -1,1 +1,3 @@
 # projector_blinding_protection
+
+- My idea for this project arose from university studying. For almost every lecture professor is using projector to display code or slides. Usually, since most of the times lectures are interactive, professor is often standing in front of projector. Because of that frist of all studnets cant see anything behind, but also professor is blinded by projector light. This is very uncomfortable. So I thought of adding a camera to projector that will stream video, and algorithm will analyze where is professor's head located and adjust the transimmted lecture so that there is a small black circle where professor's head is. This way professor is not blinded by projector light.
